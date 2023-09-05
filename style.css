@@ -1,0 +1,19 @@
+table{
+    border: 2px solid black;
+    margin-top: 200px;
+    margin-left: 50px;
+    height: 125px;
+    width: 125px;
+    
+}
+#outputbox{
+    border: 2px;
+    height: 40px;
+    
+}
+button{
+    margin-top: 40px;
+}
+body{
+    background-image: url(https://img.freepik.com/premium-photo/top-view-blue-calculator-notepad-color-background_260672-4055.jpg);
+}
